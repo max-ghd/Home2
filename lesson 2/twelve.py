@@ -1,0 +1,5 @@
+n1=input("Number: ")
+num=int(n1[0])+int(n1[2])
+num1=int(n1[1])-int(n1[3])
+print(num)
+print(num1)
